@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
-# Hi I'm Dongchan
-## Welcome to my Github
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,2,5,30&text=Hi_am_Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
+# Welcome to my Github
 
 <!--
 **kkokkiyo/kkokkiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
