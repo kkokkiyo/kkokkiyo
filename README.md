@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi I'm Dongchan
+## Welcome to my Github
 
 <!--
 **kkokkiyo/kkokkiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
