@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,2,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
 # Welcome to my Github
+### I use...
+<img  src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img  src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
+<img  src="https://img.shields.io/badge/SpringBoot-007396?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img  src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white"/>
+
+I use these languages and frameworks
+
+
 
 <!--
 **kkokkiyo/kkokkiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
