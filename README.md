@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,2,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
 # Welcome to my Github
 ### I use...
-<img  src="https://img.shields.io/badge/Java-lightgrey?style=plastic&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white">
 <img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/>
 <img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/>
