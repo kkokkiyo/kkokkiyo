@@ -2,12 +2,7 @@
 # Welcome to my Github
 ### I use...
 
-<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white">
-<img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/>
-<img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/>
-<img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/>
-<img  src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=SpringBoot&logoColor=white"/>
-<img  src="https://img.shields.io/badge/React-lightgrey?style=plastic&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white"><img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/><img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/><img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/><img  src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=SpringBoot&logoColor=white"/><img  src="https://img.shields.io/badge/React-lightgrey?style=plastic&logo=React&logoColor=white"/>
 
 I use these languages and frameworks
 
@@ -16,7 +11,6 @@ I use these languages and frameworks
 
 ### My Baekjoon tears
 
-dear0923
 [![Solved.ac
 dear0923](http://mazassumnida.wtf/api/v2/generate_badge?boj={dear0923})](https://solved.ac/{dear0923})
 
