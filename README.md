@@ -2,7 +2,7 @@
 # Welcome to my Github
 ### I use...
 
-<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white"><img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/><img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/><img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/><img  src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=SpringBoot&logoColor=white"/><img  src="https://img.shields.io/badge/React-lightgrey?style=plastic&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/> <img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/> <img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/> <img  src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=SpringBoot&logoColor=white"/> <img  src="https://img.shields.io/badge/React-lightgrey?style=plastic&logo=React&logoColor=white"/>
 
 I use these languages and frameworks
 
