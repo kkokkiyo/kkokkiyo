@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,2,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,4,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
 # Welcome to my Github
 ### I use...
 
