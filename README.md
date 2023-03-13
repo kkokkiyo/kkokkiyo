@@ -9,10 +9,11 @@ I use these languages and frameworks
 
 
 
-### My Baekjoon tears
+### My Baekjoon tears && Git-Hub Stats
 
 [![Solved.ac
 dear0923](http://mazassumnida.wtf/api/v2/generate_badge?boj=dear0923)](https://solved.ac/dear0923)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkokkiyo&show_icons=true&theme=transparent)
 
 
 ### Number of visitors
