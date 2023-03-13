@@ -12,7 +12,7 @@ I use these languages and frameworks
 ### My Baekjoon tears
 
 [![Solved.ac
-dear0923](http://mazassumnida.wtf/api/v2/generate_badge?boj={dear0923})](https://solved.ac/{dear0923})
+dear0923](http://mazassumnida.wtf/api/v2/generate_badge?boj=dear0923)](https://solved.ac/dear0923)
 
 
 ### Number of visitors
