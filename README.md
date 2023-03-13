@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,2,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
 # Welcome to my Github
 ### I use...
+
 <img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white">
 <img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/>
@@ -10,8 +11,19 @@
 
 I use these languages and frameworks
 
-?style=plastic&logo=appveyor
 
+
+
+### My Baekjoon tears
+
+dear0923
+[![Solved.ac
+dear0923](http://mazassumnida.wtf/api/v2/generate_badge?boj={dear0923})](https://solved.ac/{dear0923})
+
+
+### Number of visitors
+
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkokkiyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=lightgrey&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
