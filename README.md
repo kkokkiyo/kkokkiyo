@@ -1,5 +1,5 @@
 <a href="https://kkokkiyo.github.io">
-  <img src="https://kkokkiyo.github.io/og/default.png" alt="이동찬. AI로 시각 콘텐츠를 만질 수 있게 만드는 개발자" width="100%">
+  <img src="https://kkokkiyo.github.io/og/default.png?v=2" alt="이동찬. AI로 시각 콘텐츠를 만질 수 있게 만드는 개발자" width="100%">
 </a>
 
 안녕하세요, 한양대학교 ERICA 컴퓨터학부에 다니는 이동찬입니다.
@@ -11,12 +11,12 @@
 ## 대표 프로젝트
 
 <p>
-  <a href="https://kkokkiyo.github.io/projects/safelift-xr/"><img src="https://kkokkiyo.github.io/og/projects/safelift-xr.png" alt="SafeLift XR, GIST AI창의융합경진대회 최우수상" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/tactile-game-agent/"><img src="https://kkokkiyo.github.io/og/projects/tactile-game-agent.png" alt="Dot Pad 게임 접근성 프레임워크" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/lg-aimers/"><img src="https://kkokkiyo.github.io/og/projects/lg-aimers.png" alt="LG Aimers 8기 모델 경량화" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/tgm/"><img src="https://kkokkiyo.github.io/og/projects/tgm.png" alt="TGM (Tactile Graphic Model)" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/skillforge/"><img src="https://kkokkiyo.github.io/og/projects/skillforge.png" alt="SkillForge" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/dot-webtoon/"><img src="https://kkokkiyo.github.io/og/projects/dot-webtoon.png" alt="Dot Webtoon" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/safelift-xr/"><img src="https://kkokkiyo.github.io/og/projects/safelift-xr.png?v=2" alt="SafeLift XR, GIST AI창의융합경진대회 최우수상" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/tactile-game-agent/"><img src="https://kkokkiyo.github.io/og/projects/tactile-game-agent.png?v=2" alt="Dot Pad 게임 접근성 프레임워크" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/lg-aimers/"><img src="https://kkokkiyo.github.io/og/projects/lg-aimers.png?v=2" alt="LG Aimers 8기 모델 경량화" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/tgm/"><img src="https://kkokkiyo.github.io/og/projects/tgm.png?v=2" alt="TGM (Tactile Graphic Model)" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/skillforge/"><img src="https://kkokkiyo.github.io/og/projects/skillforge.png?v=2" alt="SkillForge" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/dot-webtoon/"><img src="https://kkokkiyo.github.io/og/projects/dot-webtoon.png?v=2" alt="Dot Webtoon" width="49%"></a>
 </p>
 
 더 많은 프로젝트는 [포트폴리오 사이트](https://kkokkiyo.github.io/projects/)에 있어요.
