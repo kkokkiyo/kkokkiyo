@@ -16,7 +16,7 @@
   <a href="https://kkokkiyo.github.io/projects/lg-aimers/"><img src="https://kkokkiyo.github.io/og/projects/lg-aimers.png?v=2" alt="LG Aimers 8기 모델 경량화" width="49%"></a>
   <a href="https://kkokkiyo.github.io/projects/tgm/"><img src="https://kkokkiyo.github.io/og/projects/tgm.png?v=2" alt="TGM (Tactile Graphic Model)" width="49%"></a>
   <a href="https://kkokkiyo.github.io/projects/skillforge/"><img src="https://kkokkiyo.github.io/og/projects/skillforge.png?v=2" alt="SkillForge" width="49%"></a>
-  <a href="https://kkokkiyo.github.io/projects/dot-webtoon/"><img src="https://kkokkiyo.github.io/og/projects/dot-webtoon.png?v=2" alt="Dot Webtoon" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/dot-pacman/"><img src="https://kkokkiyo.github.io/og/projects/dot-pacman.png?v=2" alt="Dot Pacman" width="49%"></a>
 </p>
 
 더 많은 프로젝트는 [포트폴리오 사이트](https://kkokkiyo.github.io/projects/)에 있어요.
