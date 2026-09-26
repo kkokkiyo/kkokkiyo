@@ -41,8 +41,8 @@
 ## 주로 쓰는 것
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,react,astro,unity,arduino,linux&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,react,astro,unity,arduino,linux&theme=dark" alt="Python, PyTorch, OpenCV, FastAPI, Docker, React, Astro, Unity, Arduino, Linux">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Cfastapi%2Cdocker%2Creact%2Castro%2Cunity%2Carduino%2Clinux&theme=light">
+  <img src="https://skillicons.dev/icons?i=py%2Cpytorch%2Copencv%2Cfastapi%2Cdocker%2Creact%2Castro%2Cunity%2Carduino%2Clinux&theme=dark" alt="Python, PyTorch, OpenCV, FastAPI, Docker, React, Astro, Unity, Arduino, Linux">
 </picture>
 
 <details>
