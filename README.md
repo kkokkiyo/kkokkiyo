@@ -35,12 +35,8 @@
 - [촉각 디스플레이와 동영상 접근성 논문 정리](https://kkokkiyo.github.io/blog/rtd-video-papers/)
 <!-- BLOG-POST-LIST:END -->
 
-## 활동
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/dotpad-contrib-light.svg">
-  <img src="assets/dotpad-contrib-dark.svg" alt="지난 1년 기여 기록을 Dot Pad 핀으로 그린 그림" width="100%">
-</picture>
+<!-- DOTPAD-CONTRIB:START -->
+<!-- DOTPAD-CONTRIB:END -->
 
 ## 주로 쓰는 것
 
