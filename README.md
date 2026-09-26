@@ -1,35 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=gradient&customColorList=0,2,4,5,30&text=Hi%20I%20am%20Dongchan&fontAlign=50&fontSize=50&animation=fadeIn)
-# Welcome to my Github
-### I use...
+<a href="https://kkokkiyo.github.io">
+  <img src="https://kkokkiyo.github.io/og/default.png" alt="이동찬. AI로 시각 콘텐츠를 만질 수 있게 만드는 개발자" width="100%">
+</a>
 
-<img src="https://img.shields.io/badge/JAVA-lightgrey?style=plastic&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/C-lightgrey?style=plastic&logo=C&logoColor=white"/> <img  src="https://img.shields.io/badge/Python-lightgrey?style=plastic&logo=Python&logoColor=white"/> <img  src="https://img.shields.io/badge/JavaScript-lightgrey?style=plastic&logo=JavaScript&logoColor=white"/> <img  src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=SpringBoot&logoColor=white"/> <img  src="https://img.shields.io/badge/React-lightgrey?style=plastic&logo=React&logoColor=white"/>
+안녕하세요, 한양대학교 ERICA 컴퓨터학부에 다니는 이동찬입니다.
 
-I use these languages and frameworks
+웹툰, 사진, 게임처럼 눈으로만 즐기던 것들을 Dot Pad 같은 촉각 디스플레이와 점자, 음성으로 옮기는 연구를 하고 있어요. 컴퓨터 비전, 생성 모델, LLM 에이전트를 도구로 씁니다.
 
+**[포트폴리오](https://kkokkiyo.github.io)** &nbsp;|&nbsp; [이력서](https://kkokkiyo.github.io/cv/) &nbsp;|&nbsp; [Dot Pad 체험해 보기](https://kkokkiyo.github.io/playground/) &nbsp;|&nbsp; [메일](mailto:dear0923@hanyang.ac.kr)
 
+## 대표 프로젝트
 
+<p>
+  <a href="https://kkokkiyo.github.io/projects/safelift-xr/"><img src="https://kkokkiyo.github.io/og/projects/safelift-xr.png" alt="SafeLift XR, GIST AI창의융합경진대회 최우수상" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/tactile-game-agent/"><img src="https://kkokkiyo.github.io/og/projects/tactile-game-agent.png" alt="Dot Pad 게임 접근성 프레임워크" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/lg-aimers/"><img src="https://kkokkiyo.github.io/og/projects/lg-aimers.png" alt="LG Aimers 8기 모델 경량화" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/tgm/"><img src="https://kkokkiyo.github.io/og/projects/tgm.png" alt="TGM (Tactile Graphic Model)" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/skillforge/"><img src="https://kkokkiyo.github.io/og/projects/skillforge.png" alt="SkillForge" width="49%"></a>
+  <a href="https://kkokkiyo.github.io/projects/dot-webtoon/"><img src="https://kkokkiyo.github.io/og/projects/dot-webtoon.png" alt="Dot Webtoon" width="49%"></a>
+</p>
 
-### My Baekjoon tears && Git-Hub Stats
+더 많은 프로젝트는 [포트폴리오 사이트](https://kkokkiyo.github.io/projects/)에 있어요.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkokkiyo&show_icons=true&theme=transparent)
+## 최근 글
 
+<!-- BLOG-POST-LIST:START -->
+- [블로그를 시작합니다](https://kkokkiyo.github.io/blog/hello-world/)
+- [촉각 디스플레이와 동영상 접근성 논문 정리](https://kkokkiyo.github.io/blog/rtd-video-papers/)
+<!-- BLOG-POST-LIST:END -->
 
-### Number of visitors
+## 주로 쓰는 것
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkokkiyo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=lightgrey&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<!--
-**kkokkiyo/kkokkiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, PyTorch, Ultralytics YOLO, SAM, Diffusers, MediaPipe, OpenCV, FastAPI, Docker, React, Astro, Unity, Arduino
